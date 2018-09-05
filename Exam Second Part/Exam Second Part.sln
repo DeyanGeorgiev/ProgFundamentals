@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tri", "Tri\Tri.csproj", "{C9B72BDD-0BC5-4A92-BFC1-C78105D1EC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chetiri", "Chetiri\Chetiri.csproj", "{85DA3001-1531-4B54-B660-9B77B21DFF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B72BDD-0BC5-4A92-BFC1-C78105D1EC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B72BDD-0BC5-4A92-BFC1-C78105D1EC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B72BDD-0BC5-4A92-BFC1-C78105D1EC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B72BDD-0BC5-4A92-BFC1-C78105D1EC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85DA3001-1531-4B54-B660-9B77B21DFF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DA3001-1531-4B54-B660-9B77B21DFF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DA3001-1531-4B54-B660-9B77B21DFF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DA3001-1531-4B54-B660-9B77B21DFF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>P05SpecialNumbers</AssemblyName>
+    <RootNamespace>P05SpecialNumbers</RootNamespace>
+  </PropertyGroup>
+</Project>

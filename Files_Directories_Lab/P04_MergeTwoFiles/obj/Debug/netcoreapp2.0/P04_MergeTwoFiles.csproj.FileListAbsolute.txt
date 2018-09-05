@@ -1,0 +1,11 @@
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\bin\Debug\netcoreapp2.0\P04_MergeTwoFiles.deps.json
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\bin\Debug\netcoreapp2.0\P04_MergeTwoFiles.runtimeconfig.json
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\bin\Debug\netcoreapp2.0\P04_MergeTwoFiles.runtimeconfig.dev.json
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\bin\Debug\netcoreapp2.0\P04_MergeTwoFiles.dll
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\bin\Debug\netcoreapp2.0\P04_MergeTwoFiles.pdb
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\obj\Debug\netcoreapp2.0\P04_MergeTwoFiles.csprojAssemblyReference.cache
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\obj\Debug\netcoreapp2.0\P04_MergeTwoFiles.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\obj\Debug\netcoreapp2.0\P04_MergeTwoFiles.AssemblyInfoInputs.cache
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\obj\Debug\netcoreapp2.0\P04_MergeTwoFiles.AssemblyInfo.cs
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\obj\Debug\netcoreapp2.0\P04_MergeTwoFiles.dll
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Files_Directories_Lab\P04_MergeTwoFiles\obj\Debug\netcoreapp2.0\P04_MergeTwoFiles.pdb

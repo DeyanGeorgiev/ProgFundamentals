@@ -1,0 +1,11 @@
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\bin\Debug\netcoreapp2.0\P03_SearchForNumber.deps.json
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\bin\Debug\netcoreapp2.0\P03_SearchForNumber.runtimeconfig.json
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\bin\Debug\netcoreapp2.0\P03_SearchForNumber.runtimeconfig.dev.json
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\bin\Debug\netcoreapp2.0\P03_SearchForNumber.dll
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\bin\Debug\netcoreapp2.0\P03_SearchForNumber.pdb
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\obj\Debug\netcoreapp2.0\P03_SearchForNumber.csprojAssemblyReference.cache
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\obj\Debug\netcoreapp2.0\P03_SearchForNumber.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\obj\Debug\netcoreapp2.0\P03_SearchForNumber.AssemblyInfoInputs.cache
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\obj\Debug\netcoreapp2.0\P03_SearchForNumber.AssemblyInfo.cs
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\obj\Debug\netcoreapp2.0\P03_SearchForNumber.dll
+C:\Users\Diablo\Desktop\SoftUni\Fundament\Projects\Lists_Excersises\P03_SearchForNumber\obj\Debug\netcoreapp2.0\P03_SearchForNumber.pdb

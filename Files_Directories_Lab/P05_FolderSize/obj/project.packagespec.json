@@ -1,0 +1,43 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Diablo\\Desktop\\SoftUni\\Fundament\\Projects\\Files_Directories_Lab\\P05_FolderSize\\P05_FolderSize.csproj",
+    "projectName": "P05_FolderSize",
+    "projectPath": "C:\\Users\\Diablo\\Desktop\\SoftUni\\Fundament\\Projects\\Files_Directories_Lab\\P05_FolderSize\\P05_FolderSize.csproj",
+    "outputPath": "C:\\Users\\Diablo\\Desktop\\SoftUni\\Fundament\\Projects\\Files_Directories_Lab\\P05_FolderSize\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
